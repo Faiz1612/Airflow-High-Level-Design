@@ -167,4 +167,5 @@ Amazon SQS can be used to provide reliable retry capabilities.
 This approach provides fault tolerance and ensures reliable job execution even in the presence of service failures.
 
 ### Final Design
-![HLD](https://github.com/user-attachments/assets/c74d5b74-8551-4eb7-83f9-ef468a2c556a)
+<img width="1915" height="998" alt="Screenshot 2026-06-12 at 1 58 32 AM" src="https://github.com/user-attachments/assets/27b870be-3dd2-404e-b332-578062b8c5b2" />
+
